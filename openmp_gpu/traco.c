@@ -1,4 +1,4 @@
-
+// compilation:  nvc -mp=gpu nuss_pluto_openmp.c -O3
 
 #include <stdio.h>
 #include <stdlib.h>
